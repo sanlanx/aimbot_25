@@ -5,6 +5,9 @@ build
 .vscode/*
 .cache/*
 
+#Clion
+.idea/*
+
 # log
 log
 MvSdkLog
