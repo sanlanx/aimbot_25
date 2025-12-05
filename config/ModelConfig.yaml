@@ -1,0 +1,4 @@
+%YAML:1.0
+---
+model_path: "../model/0526.onnx"
+label_path: "../model/label.txt"

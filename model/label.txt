@@ -1,0 +1,16 @@
+red
+blue
+gray
+purple
+unknown_color
+
+G
+1
+2
+3
+4
+5
+O
+Bs
+Bb
+unknown_number
